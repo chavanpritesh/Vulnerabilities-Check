@@ -1,1 +1,2 @@
 subdomainfinder.c99.nl/ - Subdomains Finder
+dirsearch (Linuux tool) - To find hidden directories in websites
